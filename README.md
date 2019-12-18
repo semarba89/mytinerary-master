@@ -1,7 +1,5 @@
 Welcome to the MYtinerary App. A travel app built using the MERN stack with Material UI.
 
-Heroku Deployment Link : https://guarded-sands-60894.herokuapp.com/
-
 <p>You will need to create a .env file in your root folder with the following info : </p>
 <pre><code>
 MONGO_URI = "YOUR_OWN_MONGO_URI"
